@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# Useful Resources:
+
+[Documentation Page](https://github.com/easymeets/easy-meets-docs)
 <!--
 
 **Here are some ideas to get you started:**
